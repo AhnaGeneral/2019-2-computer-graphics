@@ -1,0 +1,16 @@
+﻿  source.cpp
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.h(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.h(67): warning C4101: 'errorLog' :참조되지 않은 지역 변수입니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(44): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(181): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(182): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(183): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(184): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(186): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(187): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(209): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(210): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(211): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tjdtj\onedrive\바탕 화면\2019-2opengl-version3.3\version3.3 opengl\project13\source.cpp(212): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  Project13.vcxproj -> C:\Users\tjdtj\OneDrive\바탕 화면\2019-2openGL-version3.3\Version3.3 openGL\Debug\Project13.exe

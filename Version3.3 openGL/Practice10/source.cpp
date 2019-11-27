@@ -198,8 +198,10 @@ void drawScene()
 	glutSwapBuffers();
 
 }
+
 int ModeCounter = 0;
 int ModeRotate = 0;
+
 void Keyboard(unsigned char key, int x, int y)
 {
 	if (key == '1') { modelnumber = 1; };
